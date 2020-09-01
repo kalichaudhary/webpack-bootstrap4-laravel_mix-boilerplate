@@ -1,4 +1,4 @@
-# Bootstrap 4+ Boilerplate
+# Webpack Bootstrap 4 Laravel Mix Boilerplate
 **Bootstrap 4.0** and **FontAwesome 4.7** Boilerplate, bundled with **Webpack** and managed by **Laravel Mix**.
 
 
