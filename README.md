@@ -3,9 +3,9 @@
 
 
 ## Introduction
-**Bootstrap Boilerplate** comes with [Bootstrap 4.0-beta.2](https://getbootstrap.com/) framework, [FontAwesome](http://fontawesome.io/) icons pack and makes use of [Laravel Mix](https://laravel-mix.com) for defining basic [Webpack](http://github.com/webpack/webpack) build steps for your application.
+**Webpack Bootstrap 4 Laravel Mix Boilerplate** comes with [Bootstrap 4.0-beta.2](https://getbootstrap.com/) framework, [FontAwesome](http://fontawesome.io/) icons pack and makes use of [Laravel Mix](https://laravel-mix.com) for defining basic [Webpack](http://github.com/webpack/webpack) build steps for your application.
 
-Bootstrap Boilerplate is **preconfigured to perform these Mix tasks**:
+Webpack Bootstrap 4 Laravel Mix Boilerplate is **preconfigured to perform these Mix tasks**:
 - Sass compilation with URL rewriting and Autoprefixer PostCSS plugin
 - JavaScript bundling with ES5 code compilation
 - Vendor libraries extraction, for improved long-term caching
