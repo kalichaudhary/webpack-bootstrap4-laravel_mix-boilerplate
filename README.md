@@ -28,7 +28,7 @@ Clone the repository and install with npm:
 git clone https://github.com/kalichaudhary/webpack-bootstrap4-laravel_mix-boilerplate.git
 ```
 ```shell
-cd bootstrap-boilerplate
+cd webpack-bootstrap4-laravel_mix-boilerplate
 ```
 ```shell
 npm install | yarn install
