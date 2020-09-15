@@ -50,12 +50,12 @@ Mix is a configuration layer on top of Webpack, so to run your Mix tasks you onl
 
 #### Run all Mix tasks
 ```bash
-npm run dev
+npm run dev | yarn start
 ```
 
 #### Watch assets for changes and Sync browser
 ```bash
-npm run watch | yarn start || yarn watch | yarn start
+npm run watch | yarn start || yarn watch
 ```
 
 #### Run all Mix tasks and minify output
