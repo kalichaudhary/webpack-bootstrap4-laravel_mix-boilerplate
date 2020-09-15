@@ -55,7 +55,7 @@ npm run dev | yarn start
 
 #### Watch assets for changes and Sync browser
 ```bash
-npm run watch | yarn start || yarn watch
+npm run watch | yarn watch
 ```
 
 #### Run all Mix tasks and minify output
